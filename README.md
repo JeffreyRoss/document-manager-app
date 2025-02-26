@@ -38,7 +38,7 @@ React front end application utilizing MUI for bare styling.
 
 2. **Setup React Frontend**
    ```bash
-    cd frontend
+    cd client
     npm install
     npm start
 
