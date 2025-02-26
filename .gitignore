@@ -1,0 +1,35 @@
+# Compiled class file
+*.class
+
+# Log file
+*.log
+
+# BlueJ files
+*.ctxt
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+
+# Package lock json
+package-lock.json
+
+# node modules
+node_modules/
+
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
+.DS_Store
+
+docs/site
+dist/
+target/
+.idea/
+*.iml
+generated/
+metastore_db/
+venv/
+.helmignore
+__pycache__/
+.python-version
+*.tgz
